@@ -1,0 +1,7 @@
+1. Calculate Load factor for each flight number (LF = Bookings/Capacity)
+2. Create 4 time bands as per your intuition. (Divide the day into 4 parts. Ex. 00:00 AM-05:00 AM)
+3. Identify top flight numbers for each sector and each time band
+(Sector : Origin+ Destination pair) 
+(Top Flight: Highest load factor within the sector & time band)
+
+Do all the analysis (Data Cleaning, processing, standardization) in Excel.
